@@ -20,6 +20,7 @@ function App() {
           src="./images/iceCream.jpg"
           alt="ice cream with yellow background"
         />
+        {/* hvorfor finner den ikke bilde? */}
         <Navbar />
         {/* <PropsVariation /> */}
       </div>
