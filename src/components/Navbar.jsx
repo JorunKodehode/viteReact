@@ -11,6 +11,7 @@ function Navbar() {
         <h3>Child 1</h3>
         <h3>Child 2</h3>
         <h3>Child 3</h3>
+
         <img src="https://images.unsplash.com/photo-1661956602926-db6b25f75947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80" />
       </ComponentChildren>
     </div>
