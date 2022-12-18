@@ -1,8 +1,6 @@
-import React from "react";
-
 function Navbar() {
   return (
-    <div>
+    <div style={{ color: "yellow", padding: 20 }}>
       <h1>Navbar test</h1>
       <nav className="nav navbar">
         <NavLink title="I" text="I" />
@@ -24,7 +22,7 @@ function NavLink(props) {
   return (
     <li>
       <a title={title} href="./">
-        {text}
+        <p>{text}</p>
       </a>
     </li>
   );
